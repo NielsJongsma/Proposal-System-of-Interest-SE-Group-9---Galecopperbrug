@@ -1,18 +1,18 @@
 MCDA Galecopperbrug Alternatives;;;;;;
 Stakeholder;Criteria;Complete Replacement;Convetional In-Situ Replacement;External Auxiliary Cables with Tower Extensions;Additional bridge;Criteria_Weight
-Rijkswaterstaat;Costs;25;0;80;100;0.13
-Rijkswaterstaat;Effeciveness;50;50;0;100;0.20
-Rijkswaterstaat;Sustainability;80;100;0;0;0.07
-Road Users;Safety;100;0;75;75;0.27
-Road Users;Longer Travel Time;0;0;80;100;0.35
-Local Residents;Noise Polution;100;100;0;0;0.05
-Local Residents;Felt Hinderance;70;100;0;0;0.50
-Environmental Organizations;Enviromental impact;100;0;75;75;0.10
+Rijkswaterstaat;Costs;25;0;80;100;0.5
+Rijkswaterstaat;Effeciveness;50;50;0;100;0.25
+Rijkswaterstaat;Sustainability;80;100;0;0;0.25
+Road Users;Safety;100;0;75;75;0.25
+Road Users;Longer Travel Time;0;0;80;100;0.75
+Local Residents;Noise Polution;100;100;0;0;0.40
+Local Residents;Felt Hinderance;70;100;0;0;0.60
+Environmental Organizations;Enviromental impact;100;0;75;75;0.67
 Environmental Organizations;Nature reservation;80;100;20;0;0.33
-Province;Impact on local transport network;100;50;0;0;0.50
-Province;External Costs;0;100;0;10;0.17
-Maritime Sector;Waterway Accesibility during Construction;100;90;0;0;0.33
-Maritime Sector;Waterway Accesibility after Construction;0;100;0;5;0.67
-Contractors;Project Difficulty;0;0;80;100;0.67
-Contractors;Project Safety;70;100;0;0;0.33
-Contractors;Project Profit;70;100;0;0;0.33
+Province;Impact on local transport network;100;50;0;0;0.67
+Province;External Costs;0;100;0;10;0.33
+Maritime Sector;Waterway Accesibility during Construction;100;90;0;0;0.25
+Maritime Sector;Waterway Accesibility after Construction;0;100;0;5;0.75
+Contractors;Project Difficulty;0;0;80;100;0.3
+Contractors;Project Safety;70;100;0;0;0.3
+Contractors;Project Profit;70;100;0;0;0.4
